@@ -53,7 +53,7 @@ twMVC-18-1
 
 	範例專案名稱：SampleWeb - Step7B
 	
-	（新增 UnitOfWorkFactory 與 UnitOfWorkAttribute）
+	（加入 UnitOfWorkFactory 與 UnitOfWorkAttribute）
 	
 
 [ASP.NET MVC 專案分層架構 - 建議與補充說明](http://kevintsengtw.blogspot.tw/2013/07/aspnet-mvc.html)
@@ -68,7 +68,8 @@ twMVC-18-1
 
 開發環境：Visual Studio 2013
 
-為了避免檔案過大，因此使用的套件皆無上傳，請自行還原，還原方式請參考 [NuGet套件還原步驟使用Visual Studio 2012 為例](http://demo.tc/Post/763)
-
 範例資料庫：[Northwind](http://northwinddatabase.codeplex.com/)
 
+為了避免檔案過大，因此使用的套件皆無上傳，請自行還原，還原方式請參考以下連結：
+
+[NuGet套件還原步驟使用Visual Studio 2012 為例](http://demo.tc/Post/763)
