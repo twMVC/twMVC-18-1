@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>
+        twMVC#18 <small>- ASP.NET MVC Sample - 專案分層架構</small>
+    </h1>
+    <p class="lead">
+        若想要了解 ASP.NET MVC 或對 ASP.NET MVC 有任何疑問，請造訪
+        <mark>
+            <a href="http://kevintsengtew.blogspot.com" title="mrkt 的程式學習筆記" target="_blank">mrkt 的程式學習筆記</a>
+        </mark>
+        或
+        <mark>
+            <a href="mvc.tw" title="twMVC" target="_blank">twMVC</a>
+        </mark>。
+        <br/>
+        這些網頁的特色在於 <mark>影片、教學課程和範例</mark> ，可協助您深入了解 ASP.NET MVC。
+    </p>
+    <p>
+        <a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a>
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Categotry</h2>
+        <p>
+            Northwind - Category <br/>
+            Index(List), Details, Create, Edit, Delete.
+        </p>
+        <p>
+            <a class="btn btn-default" href="@Url.Action("Index", "Categories")">more &raquo;</a>
+        </p>
+    </div>
+    <div class="col-md-4">
+        <h2>Product</h2>
+        <p>
+            Northwind - Product <br/>
+            Index(List), Details, Create, Edit, Delete.
+        </p>
+        <p>
+            <a class="btn btn-default" href="@Url.Action("Index", "Products")">more &raquo;</a>
+        </p>
+    </div>
+</div>

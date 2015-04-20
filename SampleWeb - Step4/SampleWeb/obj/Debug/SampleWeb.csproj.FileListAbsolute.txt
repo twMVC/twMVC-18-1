@@ -1,0 +1,183 @@
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\SampleWeb.dll.config
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\obj\Debug\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\obj\Debug\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb\SampleWeb\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\SampleWeb.dll.config
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\obj\Debug\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step1\SampleWeb\obj\Debug\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\SampleWeb.dll.config
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\obj\Debug\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step2\SampleWeb\obj\Debug\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\SampleWeb.dll.config
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\obj\Debug\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step3\SampleWeb\obj\Debug\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\SampleWeb.dll.config
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\Antlr3.Runtime.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\EntityFramework.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\EntityFramework.SqlServer.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\Newtonsoft.Json.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Helpers.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Mvc.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Optimization.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.Razor.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\WebGrease.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\EntityFramework.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\EntityFramework.SqlServer.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Helpers.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Mvc.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Optimization.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\System.Web.WebPages.Razor.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\Antlr3.Runtime.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\Newtonsoft.Json.xml
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.Helpers.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.Mvc.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.Optimization.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.WebPages.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\obj\Debug\SampleWeb.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\obj\Debug\SampleWeb.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\SampleWeb.Models.dll
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\bin\SampleWeb.Models.pdb
+E:\Develope\Lab\ASP.NET MVC 分層架構\Step\SampleWeb - Step4\SampleWeb\obj\Debug\SampleWeb.csprojResolveAssemblyReference.cache
